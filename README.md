@@ -58,7 +58,7 @@ Pico:
 
 📁 2. Töltsd le a firmware-t:
 Menj ide:
-📂 https://github.com/EinEinfach/Sunray/tree/landrumower-linux/landrumower/firmware
+📂 https://github.com/adamant666/worx/tree/main/landrumower/firmware
 ➡️ Közvetlen letöltés (jobb klikk + "Mentés másként"):
 landrumower/firmware
 
