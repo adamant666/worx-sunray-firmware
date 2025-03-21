@@ -1,5 +1,7 @@
 Raspberry Pi4
+
 🧰 Előkészületek
+
 ✅ Szükséges eszközök:
 •	Raspberry Pi 4 (ajánlott min. 2GB RAM)
 •	microSD kártya (legalább 16GB, Class 10)
